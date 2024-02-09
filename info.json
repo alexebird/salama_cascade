@@ -1,0 +1,13 @@
+{
+    "title": "Salama Cascade",
+    "description": "WIP",
+    "previews": ["preview.jpg"],
+    "biome": "Pine Forest",
+    "roads": "Dirt",
+    "authors": "birdman",
+    "defaultSpawnPointName":"spawn_default"
+    "size": [
+        4096,
+        4096
+    ]
+}

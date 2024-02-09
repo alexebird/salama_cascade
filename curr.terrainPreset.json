@@ -1,0 +1,17 @@
+{
+  "heightMapPath":"/levels/salama_cascade/art/terrains/t_terrain_base_h.png",
+  "heightScale":400,
+  "holeMapPath":"",
+  "name":"theTerrain",
+  "opacityMaps":[
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_0_Grass.png",
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_1_Dirt.png"
+  ],
+  "pos":{
+    "x":-2048,
+    "y":-2048,
+    "z":0
+  },
+  "squareSize":1,
+  "type":"TerrainData"
+}
